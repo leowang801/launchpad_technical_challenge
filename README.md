@@ -21,3 +21,9 @@ The biggest problem I see is whether or not the app should constently check for 
     - The user would set times when they want the notification and the app checks the weather at the specified times
     - Can use machine learning algorithm to determine times when the user leaves the house, goes outside, etc. 
     - Eliminates background activity at the cost of less accurate weather readings ie. could still be caught by sudden weather changes
+
+### Design
+The design for this app would be a very simple user interface that allows the users to see all the locations and respective notifications that they set for each area. There would also be a button to add new locations and alerts. When adding alerts to a location, there will be a list of recommended alerts. For example, I am from Calgary where it does not rain much but snows a ton. When adding Calgary as a location, there would be recommendations based on the historical weather data from that area to add alert for snow and hail. 
+
+The notification sent will alert the user of the current weather condition in the area and the forcast for the day. For example, a notification might say "The current weather in Vancouver is 20°C, with a high today of 23°C and a low of 17°C, there is a 90% chance of rain at 3:00pm"
+
