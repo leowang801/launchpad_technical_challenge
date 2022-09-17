@@ -27,3 +27,10 @@ The design for this app would be a very simple user interface that allows the us
 
 The notification sent will alert the user of the current weather condition in the area and the forcast for the day. For example, a notification might say "The current weather in Vancouver is 20°C, with a high today of 23°C and a low of 17°C, there is a 90% chance of rain at 3:00pm"
 
+### Possible problems
+1. The biggest problem is that there is a native iOS weather app which can do all of the same functionality as the app that we are creating. 
+    - The iOS app requires that it has location access at all times to provide weather updates which some users may feel uncomfortable with. 
+    - The iOS weather app requires that it constantly runs in the background which can use more power 
+2. Would have to pay for WeatherKit API 
+    - The app would need monitization in order to help pay for the cost of WeatherKit API 
+    - Ads and payment could turn users away from the app as it is not a huge upgrade from the free iOS native app
