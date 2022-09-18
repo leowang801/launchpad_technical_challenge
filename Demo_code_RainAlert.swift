@@ -4,6 +4,10 @@
 //
 //  Created by Leo Wang on 2022-09-17.
 //
+// Basic demonstration of the premise of how to retrieve weather data and a basic UI
+// 
+// To fully implement app, still need to create functions to process the data, and send push notification
+//
 // Uses WeatherKit API to get weather data and CoreLocation API to provide location
 
 import SwiftUI

@@ -31,6 +31,6 @@ The notification sent will alert the user of the current weather condition in th
 1. The biggest problem is that there is a native iOS weather app which can do all of the same functionality as the app that we are creating. 
     - The iOS app requires that it has location access at all times to provide weather updates which some users may feel uncomfortable with. 
     - The iOS weather app requires that it constantly runs in the background which can use more power 
-2. Would have to pay for WeatherKit API 
+2. Would have to pay for WeatherKit API
     - The app would need monitization in order to help pay for the cost of WeatherKit API 
     - Ads and payment could turn users away from the app as it is not a huge upgrade from the free iOS native app
